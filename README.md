@@ -41,7 +41,7 @@ Schema Design • Indexing • Query Optimization • Data Modeling
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure)
 ![Databricks](https://img.shields.io/badge/-Databricks-000)
 ![PySpark](https://img.shields.io/badge/-PySpark-000)
-![Delta Lake](https://delta.io/)
+![Delta Lake](https://img.shields.io/badge/-Delta Lake-000)
 
 ADF • CDC • SCD • Data Lake • ETL Automation
 
