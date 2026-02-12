@@ -1,5 +1,3 @@
-## This is Abhiram S
-
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">Data Engineer • LLM Systems Builder • Full Stack Engineer</h3>
 
@@ -140,13 +138,13 @@ Used by 100+ players.
 
 # 📫 Connect With Me
 
-📧 abhi555rram@gmail.com  
+📧 Email: abhi555rram@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/abhi-ram1/  
 🌐 Portfolio: https://11abiram11.github.io/Portfolio/
 
 ---
 
 <p align="center">
-  <i>"Build systems that scale. Understand systems that fail."</i>
+  <i>"Build systems that scale. Exploring Real Things Will Be The REALFUN"</i>
 </p>
 
