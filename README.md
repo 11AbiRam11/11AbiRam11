@@ -20,7 +20,7 @@ I care about **fundamentals, performance, and system design** — not just frame
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ###  Backend
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
