@@ -1,151 +1,179 @@
-<h1 align="center">Hi, I'm Abhiram</h1>
-<h3 align="center">Data Engineer • LLM Systems Builder • Full Stack Engineer</h3>
-
+<h1 align="center">Abhiram S</h1>
 <p align="center">
-  Building scalable backend systems, production-grade data pipelines, and transformer models from scratch.
+Full Stack Engineer | Data Engineer | LLM Systems Builder
 </p>
 
 ---
 
-##  About Me
+## Professional Summary
 
--  BCA Graduate (CGPA 9.0)
--  Strong foundation in DSA, DBMS, OS, Networks, AI/ML
--  Built production-style Azure ETL pipelines (Bronze → Silver → Gold)
--  Implemented a Transformer-based LLM from scratch in PyTorch
--  Developed 6+ Web Security CTF challenges (JWT, SSRF, CSRF, Session Hijacking)
--  Passionate about Distributed Systems, Data Platforms & AI Infrastructure
+Engineer with a strong foundation in Computer Science (BCA, CGPA 9.0) and hands-on experience building backend systems, production-grade data pipelines, and transformer-based machine learning models.
 
-I care about **fundamentals, performance, and system design** — not just frameworks.
+My work spans across:
 
----
+- Scalable backend architecture
+- Secure web application development
+- Cloud-based data engineering (Azure ecosystem)
+- ETL automation and data modeling
+- Transformer implementation and LLM experimentation
+- RAG and agent-based AI systems
 
-#  Tech Stack
-
-###  Backend
-![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![REST API](https://img.shields.io/badge/-REST%20APIs-000)
-
-###  Databases
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=microsoftsqlserver)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-
-Schema Design • Indexing • Query Optimization • Data Modeling
-
-###  Data Engineering & Cloud
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure)
-![Databricks](https://img.shields.io/badge/-Databricks-000)
-![PySpark](https://img.shields.io/badge/-PySpark-000)
-![Delta Lake](https://img.shields.io/badge/-DeltaLake-000)
-
-ADF • CDC • SCD • Data Lake • ETL Automation
-
-###  AI / Machine Learning
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-000)
-
-Transformers • RAG • Agentic Systems • Vector Search  
-Model Training • Evaluation • Deployment
-
-###  DevOps
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+I focus on building reliable systems with strong fundamentals in distributed systems, databases, and performance optimization.
 
 ---
 
-#  Featured Projects
+## Core Competencies
 
-##  LLM from Scratch
- https://github.com/11AbiRam11/LLM
+### Backend Engineering
+- Node.js, Express.js
+- RESTful API design
+- Authentication & Authorization (JWT, session handling)
+- Input validation and backend security
+- Application architecture and modular design
 
-Built core Transformer components manually:
-- Tokenization
-- Multi-head attention
-- Positional encoding
-- Causal masking
-- Custom training loop
-- Gradient clipping & LR scheduling
-
-> Deep dive into how modern LLMs actually work under the hood.
-
----
-
-##  Azure End-to-End Data Engineering Project
- https://github.com/11AbiRam11/DE-Azure-project
-
-Production-style pipeline:
-- Bronze → Silver → Gold architecture
-- Automated CDC & backfills
-- PySpark transformations
+### Data Engineering
+- Azure Data Factory (ADF)
+- Databricks
 - Delta Lake
-- ADF orchestration
-- Logic Apps alerts
+- PySpark
+- Bronze → Silver → Gold architecture
+- Change Data Capture (CDC)
+- Slowly Changing Dimensions (SCD)
+- Metadata-driven pipelines
+- Data validation and retry mechanisms
 
-  50k+ records/day  
-  25% deployment time  
-  35% reliability  
+### Machine Learning & AI Systems
+- PyTorch, TensorFlow, scikit-learn
+- Transformer architecture implementation
+- Tokenization and positional encoding
+- Multi-head self-attention
+- Causal masking for autoregressive models
+- Training loops, gradient clipping, LR scheduling
+- Retrieval Augmented Generation (RAG)
+- Vector databases (foundational level)
+- Agentic system experimentation
+
+### Databases
+- MySQL
+- SQL Server
+- MongoDB
+- Query optimization
+- Indexing strategies
+- Schema design and normalization
+
+### Cloud & DevOps
+- Microsoft Azure
+- AWS (foundational)
+- Docker & Docker Compose
+- Git & GitHub
+- Linux environments
+- CI/CD fundamentals
 
 ---
 
-## Automated Stock ETL Pipeline
- https://github.com/11AbiRam11/ETL_Py-to-Sql
+## Selected Projects
 
-- API extraction (AlphaVantage)
-- Data standardization
-- SQL ingestion
-- Fully automated daily updates
-- 100% manual reporting eliminated
+### LLM from Scratch
+Repository: https://github.com/11AbiRam11/LLM
+
+Implemented a Transformer-based language model in PyTorch from first principles.
+
+Key components:
+- Custom tokenization pipeline
+- Positional encoding
+- Multi-head attention mechanism
+- Feed-forward layers
+- Causal masking for next-token prediction
+- Custom training loop with gradient clipping and learning rate scheduling
+
+This project strengthened my understanding of model architecture, training dynamics, and the end-to-end ML lifecycle.
 
 ---
 
-##  Web Security CTF Platform
- https://github.com/11AbiRam11/node_jsExpress
+### End-to-End Azure Data Engineering Pipeline
+Repository: https://github.com/11AbiRam11/DE-Azure-project
 
-- JWT Forgery
+Designed and implemented a production-style data pipeline using:
+
+- Azure Data Factory for orchestration
+- Databricks for PySpark transformations
+- Delta Lake for storage
+- Logic Apps for alerting and automation
+
+Architecture:
+- Bronze → Silver → Gold layered design
+- Automated CDC handling and backfills
+- Multi-environment deployment support
+
+Impact:
+- Processed 50k+ records per day
+- Reduced deployment time by 25%
+- Improved reliability by 35% through automated validation and retry logic
+
+---
+
+### Automated Stock ETL System
+Repository: https://github.com/11AbiRam11/ETL_Py-to-Sql
+
+Built a fully automated data ingestion pipeline:
+
+- Extracted financial data via API
+- Standardized and validated datasets
+- Loaded into SQL database
+- Eliminated manual reporting through scheduled automation
+
+Demonstrated strong data cleaning, validation, and workflow automation practices.
+
+---
+
+### Web Security CTF Platform
+Repository: https://github.com/11AbiRam11/node_jsExpress
+
+Developed 6+ production-grade Capture-The-Flag challenges targeting real-world vulnerabilities:
+
+- JWT forgery
+- Session hijacking
 - SSRF
 - CSRF
-- Session Hijacking
-- Secure validation layer
-- Dockerized sandbox
+- Backend validation flaws
 
-Used by 100+ players.
+Features:
+- REST API-based architecture
+- Secure session handling
+- Dockerized sandbox environments
+- Automated flag validation
+- Scoring and analytics system
 
----
-
-#  GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=11AbiRam11&show_icons=true&theme=tokyonight" /> -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=11AbiRam11&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=11AbiRam11&theme=tokyonight" />
-</p>
+Used by 100+ participants during internship tenure.
 
 ---
 
-#  Currently Exploring
+## Engineering Interests
 
-- TinyGPT-style lightweight transformers
-- Learning Fullstack (PHP)
-- Efficient inference techniques
-- Data + LLM system architecture
-- AI infrastructure design
-
----
-
-#  Connect With Me
-
- Email: abhi555rram@gmail.com  
- LinkedIn: https://www.linkedin.com/in/abhi-ram1/  
- Portfolio: https://11abiram11.github.io/Portfolio/
+- Distributed systems design
+- Data-intensive applications
+- AI infrastructure
+- LLM system architecture
+- Secure backend systems
+- Performance optimization
+- Data correctness and validation
 
 ---
 
-<p align="center">
-  <i>"Build systems that scale. Exploring Real Things Will Be The REALFUN"</i>
-</p>
+## Education
 
+Bachelor of Computer Applications (BCA)  
+Karnataka College of Management and Science  
+CGPA: 9.0  
+
+Relevant coursework:
+Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, AI & ML
+
+---
+
+## Contact
+
+Email: abhi555rram@gmail.com  
+LinkedIn: https://www.linkedin.com/in/abhi-ram1/  
+Portfolio: https://11abiram11.github.io/Portfolio/  
+GitHub: https://github.com/11AbiRam11
