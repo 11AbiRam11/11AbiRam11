@@ -1,7 +1,7 @@
 ## This is Abhiram S
 
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
-<h3 align="center">Full Stack Engineer • Data Engineer • LLM Systems Builder</h3>
+<h3 align="center">Data Engineer • LLM Systems Builder • Full Stack Engineer</h3>
 
 <p align="center">
   Building scalable backend systems, production-grade data pipelines, and transformer models from scratch.
